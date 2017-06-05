@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\background.png",
+        "source": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo.png",
+        "source": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\work\\Gary\\ShoppingCartApp\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    }
+]

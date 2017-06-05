@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-23.4.0_3e0d78b9f0c7159314d1749904ddf852c4330c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-23.4.0_fa8dc2013c260db7e4df2e4ac30213139a127c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-23.4.0_cfba81d40eca7a19530136aa3c5869eaf641a066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-23.4.0_ce88acf426a2a175b935be699c2b1a51d8947572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\test\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_917257f71c7b1700937463895cddea33e22dfe31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\test\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb501f7cf4d74a5f9ec1a9c8172e552f57ea3215">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\test-runtime-unspecified_90a9b16838b20de4b8f6713015114af18b543c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_bd3db326215378782f5a0478881f416a2669966e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-23.4.0_c5fc499995573e2a45bdd83cc517b6fdd4ae0bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-23.4.0_4195408463fbd24a8bd2f28cc39f0953ea01d787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-23.4.0_6f97d245749e7cde111fce7ce69e9205efa14977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\work\Gary\ShoppingCartApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-23.4.0_61c71e89378557a647180c67421da71a04c3b384.jar" />
+    </item>
+
+</items>

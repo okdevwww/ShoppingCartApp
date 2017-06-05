@@ -1,0 +1,57 @@
+<StackLayout>
+
+  <FlexboxLayout class="action-bar">
+    <Image
+      src="~/images/back_icon.png"></Image>
+    <StackLayout flexGrow="1"></StackLayout>
+    <Image
+      src="~/images/menu_icon.png"></Image>
+  </FlexboxLayout>
+
+  <GridLayout>
+
+    <StackLayout>
+      <FlexboxLayout class="header">
+        <Label
+          [text]="minOrder"
+          flexGrow="1"></Label>
+        <Image src="~/images/cart_icon.png"></Image>
+        <Label
+          [text]="totalPrice"></Label>
+        <Label
+          [text]="cartCount"
+          class="count"></Label>
+      </FlexboxLayout>
+
+      <ScrollView>
+        <StackLayout orientation="vertical">
+            
+          <Image src="~/images/home.png"></Image>
+
+          <FlexboxLayout class="details">
+          </FlexboxLayout>
+
+          <product-group
+            *ngFor="let group of productGroup"
+            [model]="group"
+            [opened]="openedId===group.productGroupId"
+            (onOpened) = "openedGroup($event)">
+            <product-item
+              *ngFor="let product of group.products"
+              [model]="product"
+              (onAdd)="onAdd()"></product-item>
+          </product-group>
+
+        </StackLayout>
+      </ScrollView>
+      
+    </StackLayout>
+
+    <StackLayout #orderDialog style="visibility: collapse;">
+      <order-dialog
+      ></order-dialog>
+    </StackLayout>
+
+  </GridLayout>
+
+</StackLayout>
